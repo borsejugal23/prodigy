@@ -18,7 +18,7 @@ function sleep(ms) {
 const { Configuration, OpenAIApi } = require("openai");
 const openai = new OpenAIApi(
   new Configuration({
-    apiKey: "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",
+    apiKey: "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",
   })
 );
 
